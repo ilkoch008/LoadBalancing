@@ -10,7 +10,8 @@ where
 [mode of work] = "dynamic" or "static"
 [num of procs] > 1
 ```
-and [size of block for dynamic mode] is unit workload for slave processes.
+and [size of block for dynamic mode] is unit workload for slave processes. 
+It means number of integers for each slave process to compute. 
 
 [size of block for dynamic mode] it is not necessary to enter if you runs program in static mode.
 ### Format of input file
