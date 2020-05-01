@@ -8,6 +8,7 @@ mpirun -n [num of procs] .../sumOfBigNumbers [input file] [output file] [mode of
 where
 ```
 [mode of work] = "dynamic" or "static"
+[num of procs] > 1
 ```
 and [size of block for dynamic mode] is unit workload for slave processes.
 
