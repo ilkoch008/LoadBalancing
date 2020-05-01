@@ -1,0 +1,4 @@
+/home/ilya/JetBrainsTools/apps/CLion/ch-0/201.6668.126/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ilya/CLionProjects/sumOfBigNumbers
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ilya/CLionProjects/sumOfBigNumbers/cmake-build-debug

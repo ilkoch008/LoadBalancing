@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ilya/CLionProjects/sumOfBigNumbers/lol.h
+stdio.h
+-
+mpi.h
+/home/ilya/CLionProjects/sumOfBigNumbers/mpi.h
+stdlib.h
+-
+string.h
+-
+
+/home/ilya/CLionProjects/sumOfBigNumbers/main.c
+lol.h
+/home/ilya/CLionProjects/sumOfBigNumbers/lol.h
+
+/usr/include/mpich/mpi.h
+stddef.h
+-
+cstdint
+-
+stdint.h
+-
+mpio.h
+/usr/include/mpich/mpio.h
+mpicxx.h
+/usr/include/mpich/mpicxx.h
+
+/usr/include/mpich/mpicxx.h
+stdio.h
+-
+
+/usr/include/mpich/mpio.h
+mpi.h
+/usr/include/mpich/mpi.h
+

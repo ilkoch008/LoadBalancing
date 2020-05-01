@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,-Bsymbolic-functions CMakeFiles/sumOfBigNumbers.dir/main.c.o CMakeFiles/sumOfBigNumbers.dir/misc.c.o CMakeFiles/sumOfBigNumbers.dir/static.c.o CMakeFiles/sumOfBigNumbers.dir/dynamic.c.o  -o sumOfBigNumbers  /usr/lib/x86_64-linux-gnu/libmpich.so 
